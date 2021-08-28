@@ -1,6 +1,8 @@
 # use
 git push https://chanho0:（Token）@github.com/chanho0/saoma.git
 
+cd /home/jdck1/
+
 docker build -t roe/jdck .
 
 /cmd wget https://raw.githubusercontent.com/Oreomeow/VIP/main/Scripts/py/getcookie.py -O /ql/jbot/bot/getcookie.py && ql bot
