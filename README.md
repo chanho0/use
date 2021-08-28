@@ -14,3 +14,5 @@ docker rm -f jdck
 docker exec -it qinglong bash
 
 cp /ql/config/getcookie.py /ql/jbot/bot/ && ql bot
+
+docker restart qinglong
