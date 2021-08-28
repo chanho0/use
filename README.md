@@ -9,4 +9,4 @@ docker build -t roe/jdck .
 
 docker exec -it qinglong bash
 
-cp /home/ql/config/getcookie.py /ql/jbot/bot/ && ql bot
+cp /ql/config/getcookie.py /ql/jbot/bot/ && ql bot
