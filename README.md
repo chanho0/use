@@ -1,4 +1,4 @@
-# jdck代建
+# jdck搭建
 git push https://chanho0:（Token）@github.com/chanho0/saoma.git
 
 cd /home/jdck1/
